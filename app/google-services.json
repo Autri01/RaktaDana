@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "991952958744",
+    "project_id": "raktadana-875f0",
+    "storage_bucket": "raktadana-875f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991952958744:android:20228ffd8731822a3fda6d",
+        "android_client_info": {
+          "package_name": "com.example.raktadana"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991952958744-rlp2gkl43gebg1iir8o76c31vmjqg88t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDylKHf5RuPSYo_UQBqQknO-gJQBYJvAzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991952958744-rlp2gkl43gebg1iir8o76c31vmjqg88t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
